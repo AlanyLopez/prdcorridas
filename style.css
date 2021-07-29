@@ -68,14 +68,11 @@ li a:hover:not(.active) {
   animation-iteration-count: infinite;
 }
 
-
-/* Style the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #ffff66;
 }
 
-/* Style the topnav links */
 .topnav a {
   float: right;
   display: block;
@@ -89,13 +86,10 @@ li a:hover:not(.active) {
   background-color:#ffffb3;
 }
 
-/*Topnav hover */
 .topnav a:hover {
   background-color: #ffffb3;
   color: black;
 }
-
-/*topnav logo link*/ 
 
 .topnavlogo a {
   float: left;
@@ -118,7 +112,6 @@ li a:hover:not(.active) {
   background-color:#ffff66;
 }
 
-/*Topnav hover */
 .topnavtxt a:hover {
   background-color: #ffff66;
   color: black;
@@ -165,7 +158,6 @@ li a:hover:not(.active) {
   cursor: pointer;
 }
 
-/* Left and right column */
 .leftcolumn{
   position: absolute;
   left: 0;
@@ -186,8 +178,6 @@ li a:hover:not(.active) {
   width: 80%;
 
 }
-
-/* Middle column */
 div.columnMiddle {
   text-align:center;
   position:absolute;
@@ -200,7 +190,6 @@ div.row{
   height: 242px;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
